@@ -1,0 +1,2 @@
+# errorhints
+List of PHPErrors
