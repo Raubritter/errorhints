@@ -1,0 +1,3 @@
+<?php
+
+mcrypt_cbc();
